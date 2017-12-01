@@ -1,0 +1,13 @@
+The webpages and papers below were used to create this project.
+
+The Extended Yale Face Database B:
+http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html
+
+EYFD B paper:
+http://vision.ucsd.edu/~leekc/papers/9pltsIEEE.pdf
+
+EYFD B cropped additional citation:
+http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/leekcref.html
+
+
+
