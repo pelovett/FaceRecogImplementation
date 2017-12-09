@@ -7,8 +7,6 @@ def main():
   dir_path = os.path.dirname(os.path.realpath(__file__))
   getunzipped(dl_link, dir_path+"/data/")
 
-#https://stackoverflow.com/questions/1774434/download-a-zip-file-to-a-local-drive-and-extract-all-files-to-a-destination-fold
-
 def getunzipped(theurl, thedir):
   name = os.path.join(thedir, 'temp.zip')
   name, hdrs = urllib.request.urlretrieve(theurl, name)
